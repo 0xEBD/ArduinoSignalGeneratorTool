@@ -1,7 +1,7 @@
-# Arduino_IO_Pirate
+# Arduino Signal Generator Tool
 
 Digital Pattern Generator for Arduino, designed to control 8 channels (D2–D9) with customizable bit patterns, sequence lengths, and delays. This project allows users to generate precise digital signals for various applications.
-Perfect for testing digital ICs, logic analyzers, or creating simulated signal sequences.
+Perfect for testing digital ICs, or creating customized signal sequences.
 
 
 
