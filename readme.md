@@ -8,7 +8,7 @@ Perfect for testing digital ICs, or creating customized signal sequences.
 ---
 
 ## Disclaimer
-This tool and documentation is fully vibe coded using chatGPT and no optimization has been performed! Additionally, this repository's code is not optimized and may contain inefficiencies.
+This tool and documentation is fully AI asdisted coded using chatGPT and no optimization has been performed! 1 while loop has been added manually.Additionally, this repository's code is not optimized and may contain inefficiencies.
 
 ## Table of Contents
 
